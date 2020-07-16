@@ -28,5 +28,6 @@ def main():
                 main()
 
             elif restart=="n":
-                    exit()
+                print("Thank you for using password generator\n Have a great day")
+                exit()
 main()
